@@ -1,0 +1,637 @@
+﻿Log file open, 10/29/17 07:44:35
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Broombro
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-252806999) SRandInit(-252806998).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.174696
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files (x86)/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.29-14.44.36:669][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.29-14.44.36:669][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.29-14.44.36:682][  0]LogInit: Computer: BUBBASBADASSPC
+[2017.10.29-14.44.36:682][  0]LogInit: User: Christian
+[2017.10.29-14.44.36:682][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.10.29-14.44.36:683][  0]LogInit: High frequency timer resolution =3.897227 MHz
+[2017.10.29-14.44.36:683][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2017.10.29-14.44.36:683][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.29-14.44.36:683][  0]LogMemory: Process Physical Memory: 279.10 MB used, 279.10 MB peak
+[2017.10.29-14.44.36:683][  0]LogMemory: Process Virtual Memory: 282.38 MB used, 282.38 MB peak
+[2017.10.29-14.44.36:683][  0]LogMemory: Physical Memory: 12373.64 MB used,  20239.95 MB free, 32613.58 MB total
+[2017.10.29-14.44.36:683][  0]LogMemory: Virtual Memory: 677.04 MB used,  20239.95 MB free, 134217728.00 MB total
+[2017.10.29-14.44.36:892][  0]LogInit: Using OS detected language (en-US).
+[2017.10.29-14.44.36:892][  0]LogInit: Using OS detected locale (en-US).
+[2017.10.29-14.44.36:898][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.10.29-14.44.37:638][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.29-14.44.37:716][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 6GB' (Feature Level 11_0)
+[2017.10.29-14.44.37:716][  0]LogD3D11RHI:       6061/0/16306 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.10.29-14.44.37:722][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2017.10.29-14.44.37:722][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2017.10.29-14.44.37:724][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.29-14.44.37:724][  0]LogD3D11RHI:       0/0/16306 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.29-14.44.37:724][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.29-14.44.37:734][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.29-14.44.37:734][  0]LogD3D11RHI:     GPU DeviceId: 0x1c03 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.29-14.44.37:734][  0]LogWindows: EnumDisplayDevices:
+[2017.10.29-14.44.37:735][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 6GB' (P:1 D:1)
+[2017.10.29-14.44.37:735][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2017.10.29-14.44.37:735][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2017.10.29-14.44.37:735][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 6GB' (P:0 D:0)
+[2017.10.29-14.44.37:735][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:1)
+[2017.10.29-14.44.37:735][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.10.29-14.44.37:736][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2017.10.29-14.44.37:736][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.10.29-14.44.37:736][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 6GB
+[2017.10.29-14.44.37:736][  0]LogD3D11RHI:   Driver Version: 388.00 (internal:23.21.13.8800, unified:388.00)
+[2017.10.29-14.44.37:736][  0]LogD3D11RHI:      Driver Date: 10-12-2017
+[2017.10.29-14.44.37:736][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.29-14.44.37:761][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.29-14.44.37:791][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 4)
+[2017.10.29-14.44.37:834][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Intermediate/Shaders/WorkingDirectory/80832/).
+[2017.10.29-14.44.37:834][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Christian/AppData/Local/Temp/UnrealShaderWorkingDir/2A1797AE4CD749BB6DC02295FD2DD1E8/'.
+[2017.10.29-14.44.37:834][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.29-14.44.38:764][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.29-14.44.38:819][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.29-14.44.38:879][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.29-14.44.38:933][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.29-14.44.38:990][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.29-14.44.39:046][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.29-14.44.39:104][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.29-14.44.39:160][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.29-14.44.39:209][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.29-14.44.39:267][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.29-14.44.39:325][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.29-14.44.39:395][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.29-14.44.39:475][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.29-14.44.39:557][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.29-14.44.39:626][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.29-14.44.39:752][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.29-14.44.39:752][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.29-14.44.39:804][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.29-14.44.39:915][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.29-14.44.39:952][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.29-14.44.40:017][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.29-14.44.40:080][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.29-14.44.40:142][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.29-14.44.40:204][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.29-14.44.40:204][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.29-14.44.40:795][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.29-14.44.40:924][  0]LogDerivedDataCache: Loaded boot cache 0.13s 93MB C:/Users/Christian/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.29-14.44.40:924][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Christian/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.29-14.44.40:924][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../Users/Christian/Documents/Unreal Projects/Broombro/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.29-14.44.40:924][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.29-14.44.40:924][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../Users/Christian/Documents/Unreal Projects/Broombro/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.29-14.44.40:924][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.29-14.44.40:946][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.29-14.44.40:958][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Christian/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.29-14.44.40:973][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.29-14.44.40:973][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.29-14.44.40:973][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.29-14.44.40:973][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.29-14.44.41:247][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2017.10.29-14.44.41:374][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.29-14.44.41:523][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.29-14.44.41:864][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.29-14.44.41:913][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.29-14.44.41:913][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.29-14.44.41:913][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.29-14.44.41:913][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.29-14.44.41:913][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.29-14.44.42:301][  0]LogNetVersion: Broombro , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 24842457)
+[2017.10.29-14.44.42:534][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.046422 seconds
+[2017.10.29-14.44.42:540][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.10.29-14.44.42:540][  0]LogUObjectAllocator: 7529112 out of 0 bytes used by permanent object pool.
+[2017.10.29-14.44.42:540][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.29-14.44.42:618][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.10.29-14.44.45:678][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.29-14.44.45:723][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.29-14.44.46:455][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.29-14.44.46:907][  0]SourceControl: Source control is disabled
+[2017.10.29-14.44.46:907][  0]SourceControl: Source control is disabled
+[2017.10.29-14.44.46:965][  0]SourceControl: Source control is disabled
+[2017.10.29-14.44.47:012][  0]SourceControl: Source control is disabled
+[2017.10.29-14.44.47:684][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.29-14.44.47:977][  0]LogOcInput: OculusInput pre-init called
+[2017.10.29-14.44.48:288][  0]LogEngine: Initializing Engine...
+[2017.10.29-14.44.48:302][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2017.10.29-14.44.48:538][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.29-14.44.48:538][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.29-14.44.48:691][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.29-14.44.48:706][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.29-14.44.48:724][  0]LogInit: FAudioDevice initialized.
+[2017.10.29-14.44.48:815][  0]LogDerivedDataCache: Saved boot cache 0.09s 93MB C:/Users/Christian/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.29-14.44.48:837][  0]LogInit: Texture streaming: Enabled
+[2017.10.29-14.44.49:000][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.29-14.44.49:233][  0]LogInit: Transaction tracking system initialized
+[2017.10.29-14.44.49:559][  0]BlueprintLog: New page: Editor Load
+[2017.10.29-14.44.50:461][  0]LocalizationService: Localization service is disabled
+[2017.10.29-14.44.51:152][  0]LogConsoleResponse: Display: 
+[2017.10.29-14.44.51:324][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.29-14.44.51:324][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.29-14.44.51:325][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.29-14.44.51:383][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Christian/Documents/Unreal Projects/Broombro/Content/' took 0.01s
+[2017.10.29-14.44.52:377][  0]SourceControl: Source control is disabled
+[2017.10.29-14.44.52:377][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.29-14.44.52:377][  0]LightingResults: New page: Lighting Build
+[2017.10.29-14.44.52:420][  0]MapCheck: New page: Map Check
+[2017.10.29-14.44.52:420][  0]LightingResults: New page: Lighting Build
+[2017.10.29-14.44.52:575][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2017.10.29-14.44.52:579][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.29-14.44.52:593][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.29-14.44.52:640][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 47.523ms to complete.
+[2017.10.29-14.44.52:640][  0]LogFileHelpers: Loading map 'Template_Default' took 0.263
+[2017.10.29-14.44.52:785][  0]LogCollectionManager: Loaded 0 collections in 0.001387 seconds
+[2017.10.29-14.44.52:870][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Christian/Documents/Unreal Projects/Broombro/Saved/Collections/' took 0.01s
+[2017.10.29-14.44.52:870][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Christian/Documents/Unreal Projects/Broombro/Content/Developers/Christian/Collections/' took 0.01s
+[2017.10.29-14.44.52:870][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Christian/Documents/Unreal Projects/Broombro/Content/Collections/' took 0.01s
+[2017.10.29-14.44.52:870][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.10.29-14.44.52:877][  0]LogContentBrowser: Native class hierarchy populated in 0.0067 seconds. Added 2386 classes and 500 folders.
+[2017.10.29-14.44.52:945][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.10.29-14.44.52:983][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.10.29-14.44.53:026][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.10.29-14.44.53:047][  0]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.29-14.44.53:049][  0]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.29-14.44.53:056][  0]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.29-14.44.53:143][  0]LogRenderer: Reallocating scene render targets to support 1616x600 Format 10 NumSamples 1 (Frame:1).
+[2017.10.29-14.44.53:305][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2017.10.29-14.44.53:306][  0]LogLoad: (Engine Initialization) Total time: 18.52 seconds
+[2017.10.29-14.44.53:306][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.29-14.44.53:306][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.10.29-14.44.53:306][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.10.29-14.44.53:662][  0]LogAssetRegistry: Asset discovery search completed in 12.4369 seconds
+[2017.10.29-14.44.53:663][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.10.29-14.44.53:663][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000071 seconds (updated 0 objects)
+[2017.10.29-14.44.53:666][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.29-14.44.53:703][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.29-14.45.04:023][695]LogSlate: Took 0.000118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.29-14.45.04:060][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Maps/AnotherMap_BuiltData'
+[2017.10.29-14.45.04:060][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Maps/AnotherMap_BuiltData' while loading ../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Content/SideScrollerBP/Maps/AnotherMap.umap.
+[2017.10.29-14.45.04:060][695]LoadErrors: Error: /Game/SideScrollerBP/Maps/AnotherMap : Can't find file for asset. /Game/SideScrollerBP/Maps/AnotherMap_BuiltData
+[2017.10.29-14.45.04:061][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Maps/AnotherMap_BuiltData'
+[2017.10.29-14.45.04:061][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Maps/AnotherMap_BuiltData' while loading ../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Content/SideScrollerBP/Maps/AnotherMap.umap.
+[2017.10.29-14.45.04:063][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Maps/AnotherMap_BuiltData'
+[2017.10.29-14.45.04:063][695]LoadErrors: Failed to load /Game/SideScrollerBP/Maps/AnotherMap_BuiltData.AnotherMap_BuiltData Referenced by PersistentLevel
+[2017.10.29-14.45.04:063][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Maps/AnotherMap_BuiltData' while loading NULL.
+[2017.10.29-14.45.04:072][695]LogAIModule: Creating AISystem for world AnotherMap
+[2017.10.29-14.45.04:088][695]Cmd: MAP LOAD FILE="../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Content/SideScrollerBP/Maps/AnotherMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.29-14.45.04:089][695]LightingResults: New page: Lighting Build
+[2017.10.29-14.45.04:089][695]LoadErrors: New page: Loading map: AnotherMap.umap
+[2017.10.29-14.45.04:089][695]MapCheck: New page: Map Check
+[2017.10.29-14.45.04:089][695]LightingResults: New page: Lighting Build
+[2017.10.29-14.45.04:101][695]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/SideScrollerBP/Maps/Main) is flushing async loading
+[2017.10.29-14.45.04:103][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:104][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:104][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:104][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:105][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:105][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:105][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:105][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:105][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:105][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:108][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:108][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:113][695]LogLinker: Warning: Can't find file '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight'
+[2017.10.29-14.45.04:114][695]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight' while loading NULL.
+[2017.10.29-14.45.04:114][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:114][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:114][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:114][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:114][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:114][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:115][695]LogLinker: Warning: Can't find file '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight'
+[2017.10.29-14.45.04:115][695]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight' while loading NULL.
+[2017.10.29-14.45.04:115][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:115][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:115][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:115][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:115][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:115][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:115][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:116][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:116][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:116][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:116][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:116][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:116][695]LogLinker: Warning: Can't find file '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight'
+[2017.10.29-14.45.04:116][695]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight' while loading NULL.
+[2017.10.29-14.45.04:116][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:116][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:116][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:116][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:116][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:116][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:117][695]LogLinker: Warning: Can't find file '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight'
+[2017.10.29-14.45.04:117][695]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight' while loading NULL.
+[2017.10.29-14.45.04:117][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:117][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:118][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:118][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:118][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:118][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:118][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:118][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:118][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:118][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:118][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:118][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:118][695]LogLinker: Warning: Can't find file '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight'
+[2017.10.29-14.45.04:118][695]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight' while loading NULL.
+[2017.10.29-14.45.04:118][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:119][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:119][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:119][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:119][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:119][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:119][695]LogLinker: Warning: Can't find file '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight'
+[2017.10.29-14.45.04:119][695]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight' while loading NULL.
+[2017.10.29-14.45.04:121][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:121][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:121][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:121][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:122][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:122][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:122][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:122][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:123][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:123][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:123][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:123][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:123][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:123][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:123][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:123][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:123][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:124][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:124][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:124][695]LoadErrors: Failed to load /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C Referenced by PersistentLevel
+[2017.10.29-14.45.04:124][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:124][695]LogLinker: Warning: Can't find file '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight'
+[2017.10.29-14.45.04:124][695]LoadErrors: Failed to load /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight Referenced by PostProcessVolume_1
+[2017.10.29-14.45.04:124][695]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight' while loading NULL.
+[2017.10.29-14.45.04:124][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:125][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:125][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:125][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:125][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:125][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:125][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:125][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:125][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:125][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:125][695]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.04:125][695]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.04:143][695]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow': SideScrollerCharacter_C /Game/SideScrollerBP/Maps/Main.Main:PersistentLevel.SideScrollerCharacter_350
+[2017.10.29-14.45.04:143][695]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SideViewCamera': SideScrollerCharacter_C /Game/SideScrollerBP/Maps/Main.Main:PersistentLevel.SideScrollerCharacter_350
+[2017.10.29-14.45.04:143][695]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CollisionCylinder': SideScrollerCharacter_C /Game/SideScrollerBP/Maps/Main.Main:PersistentLevel.SideScrollerCharacter_350
+[2017.10.29-14.45.04:143][695]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharMoveComp': SideScrollerCharacter_C /Game/SideScrollerBP/Maps/Main.Main:PersistentLevel.SideScrollerCharacter_350
+[2017.10.29-14.45.04:143][695]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharacterMesh0': SideScrollerCharacter_C /Game/SideScrollerBP/Maps/Main.Main:PersistentLevel.SideScrollerCharacter_350
+[2017.10.29-14.45.04:143][695]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SpringArm1': SideScrollerCharacter_C /Game/SideScrollerBP/Maps/Main.Main:PersistentLevel.SideScrollerCharacter_350
+[2017.10.29-14.45.04:145][695]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.29-14.45.04:191][695]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.29-14.45.04:191][695]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/SideScrollerBP/Maps/FamilyRoom' which isn't loaded.
+[2017.10.29-14.45.04:191][695]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/SideScrollerBP/Maps/FrontYard' which isn't loaded.
+[2017.10.29-14.45.04:191][695]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/SideScrollerBP/Maps/Kitchen' which isn't loaded.
+[2017.10.29-14.45.04:241][695]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.913ms to complete.
+[2017.10.29-14.45.04:241][695]LogFileHelpers: Loading map 'AnotherMap' took 0.153
+[2017.10.29-14.45.11:291][469]Cmd: MAP LOAD FILE="../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Content/SideScrollerBP/Maps/Main.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.29-14.45.11:291][469]LightingResults: New page: Lighting Build
+[2017.10.29-14.45.11:291][469]LoadErrors: New page: Loading map: Main.umap
+[2017.10.29-14.45.11:292][469]MapCheck: New page: Map Check
+[2017.10.29-14.45.11:292][469]LightingResults: New page: Lighting Build
+[2017.10.29-14.45.11:300][469]LogAIModule: Creating AISystem for world Main
+[2017.10.29-14.45.11:302][469]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/SideScrollerBP/Maps/FamilyRoom) is flushing async loading
+[2017.10.29-14.45.11:316][469]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/SideScrollerBP/Maps/FrontYard) is flushing async loading
+[2017.10.29-14.45.11:323][469]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2017.10.29-14.45.11:323][469]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading ../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Content/StarterContent/Materials/M_Rock_Slate.uasset.
+[2017.10.29-14.45.11:323][469]LoadErrors: Error: /Game/StarterContent/Materials/M_Rock_Slate : Can't find file for asset. /Game/StarterContent/Textures/T_MacroVariation
+[2017.10.29-14.45.11:323][469]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2017.10.29-14.45.11:323][469]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading ../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Content/StarterContent/Materials/M_Rock_Slate.uasset.
+[2017.10.29-14.45.11:323][469]LoadErrors: Error: /Game/StarterContent/Materials/M_Rock_Slate : Can't find file for asset. /Game/StarterContent/Textures/T_Perlin_Noise_M
+[2017.10.29-14.45.11:323][469]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Slate_D'
+[2017.10.29-14.45.11:323][469]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Slate_D' while loading ../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Content/StarterContent/Materials/M_Rock_Slate.uasset.
+[2017.10.29-14.45.11:323][469]LoadErrors: Error: /Game/StarterContent/Materials/M_Rock_Slate : Can't find file for asset. /Game/StarterContent/Textures/T_Rock_Slate_D
+[2017.10.29-14.45.11:323][469]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Slate_N'
+[2017.10.29-14.45.11:323][469]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Slate_N' while loading ../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Content/StarterContent/Materials/M_Rock_Slate.uasset.
+[2017.10.29-14.45.11:323][469]LoadErrors: Error: /Game/StarterContent/Materials/M_Rock_Slate : Can't find file for asset. /Game/StarterContent/Textures/T_Rock_Slate_N
+[2017.10.29-14.45.11:323][469]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2017.10.29-14.45.11:324][469]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading ../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Content/StarterContent/Materials/M_Rock_Slate.uasset.
+[2017.10.29-14.45.11:324][469]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2017.10.29-14.45.11:324][469]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading ../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Content/StarterContent/Materials/M_Rock_Slate.uasset.
+[2017.10.29-14.45.11:324][469]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Slate_D'
+[2017.10.29-14.45.11:324][469]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Slate_D' while loading ../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Content/StarterContent/Materials/M_Rock_Slate.uasset.
+[2017.10.29-14.45.11:324][469]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Slate_N'
+[2017.10.29-14.45.11:324][469]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Slate_N' while loading ../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Content/StarterContent/Materials/M_Rock_Slate.uasset.
+[2017.10.29-14.45.11:524][469]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Slate_D'
+[2017.10.29-14.45.11:525][469]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Slate_D.T_Rock_Slate_D Referenced by MaterialExpressionTextureSample_38
+[2017.10.29-14.45.11:525][469]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Slate_D' while loading NULL.
+[2017.10.29-14.45.11:525][469]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Slate_N'
+[2017.10.29-14.45.11:525][469]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Slate_N.T_Rock_Slate_N Referenced by MaterialExpressionTextureSample_39
+[2017.10.29-14.45.11:525][469]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Slate_N' while loading NULL.
+[2017.10.29-14.45.11:525][469]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Perlin_Noise_M'
+[2017.10.29-14.45.11:525][469]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Perlin_Noise_M.T_Perlin_Noise_M Referenced by MaterialExpressionTextureSample_40
+[2017.10.29-14.45.11:525][469]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Perlin_Noise_M' while loading NULL.
+[2017.10.29-14.45.11:525][469]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2017.10.29-14.45.11:525][469]LoadErrors: Failed to load /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation Referenced by MaterialExpressionTextureSample_41
+[2017.10.29-14.45.11:525][469]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading NULL.
+[2017.10.29-14.45.11:525][469]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2017.10.29-14.45.11:526][469]LoadErrors: Failed to load /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation Referenced by MaterialExpressionTextureSample_42
+[2017.10.29-14.45.11:526][469]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading NULL.
+[2017.10.29-14.45.11:526][469]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_MacroVariation'
+[2017.10.29-14.45.11:526][469]LoadErrors: Failed to load /Game/StarterContent/Textures/T_MacroVariation.T_MacroVariation Referenced by MaterialExpressionTextureSample_43
+[2017.10.29-14.45.11:526][469]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_MacroVariation' while loading NULL.
+[2017.10.29-14.45.11:526][469]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Slate_D'
+[2017.10.29-14.45.11:526][469]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Slate_D.T_Rock_Slate_D Referenced by MaterialExpressionTextureSample_44
+[2017.10.29-14.45.11:526][469]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Slate_D' while loading NULL.
+[2017.10.29-14.45.11:526][469]LogLinker: Warning: Can't find file '/Game/StarterContent/Textures/T_Rock_Slate_N'
+[2017.10.29-14.45.11:526][469]LoadErrors: Failed to load /Game/StarterContent/Textures/T_Rock_Slate_N.T_Rock_Slate_N Referenced by MaterialExpressionTextureSample_45
+[2017.10.29-14.45.11:526][469]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Textures/T_Rock_Slate_N' while loading NULL.
+[2017.10.29-14.45.11:581][469]LogMaterial: Missing cached shader map for material M_Rock_Slate, compiling. 
+[2017.10.29-14.45.11:582][469]LogMaterial: Warning: Failed to compile Material /Game/StarterContent/Materials/M_Rock_Slate.M_Rock_Slate for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.29-14.45.11:582][469]LogMaterial: Warning: 	(Node TextureSample) Texture Sample> Missing input texture
+[2017.10.29-14.45.11:669][469]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/SideScrollerBP/Maps/Kitchen) is flushing async loading
+[2017.10.29-14.45.11:676][469]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.29-14.45.11:758][469]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.29-14.45.11:759][469]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/SideScrollerBP/Maps/Main' which isn't loaded.
+[2017.10.29-14.45.11:759][469]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/SideScrollerBP/Maps/Main' which isn't loaded.
+[2017.10.29-14.45.11:759][469]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/SideScrollerBP/Maps/Main' which isn't loaded.
+[2017.10.29-14.45.11:814][469]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 55.177ms to complete.
+[2017.10.29-14.45.11:815][469]LogFileHelpers: Loading map 'Main' took 0.525
+[2017.10.29-14.45.17:068][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2017.10.29-14.45.17:069][ 42]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Floor2)
+[2017.10.29-14.45.17:535][ 68]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2017.10.29-14.45.17:535][ 68]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Cube6)
+[2017.10.29-14.45.17:968][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2017.10.29-14.45.17:968][113]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Cube6)
+[2017.10.29-14.45.18:036][119]LogEditorViewport: Clicking on Actor (double click): StaticMeshActor (Cube6)
+[2017.10.29-14.45.18:036][119]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (Cube6)
+[2017.10.29-14.45.25:039][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (path_tile2)
+[2017.10.29-14.45.25:039][932]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (path_tile2)
+[2017.10.29-14.45.25:526][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (path_tile2)
+[2017.10.29-14.45.25:526][968]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (path_tile2)
+[2017.10.29-14.45.25:883][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (street)
+[2017.10.29-14.45.25:883][  1]LogEditorSelectUtils: Warning: SelectActor: The requested operation could not be completed because the level is locked. (street)
+[2017.10.29-14.45.27:477][156]LogActorFactory: Actor Factory created Cube
+[2017.10.29-14.45.28:463][238]LogActorFactory: Actor Factory created Cube
+[2017.10.29-14.45.48:927][558]Cmd: DELETE
+[2017.10.29-14.45.48:927][558]Cmd: ACTOR DELETE
+[2017.10.29-14.45.48:936][558]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.10.29-14.45.48:945][558]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2017.10.29-14.45.51:065][779]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Maps/AnotherMap_BuiltData'
+[2017.10.29-14.45.51:065][779]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Maps/AnotherMap_BuiltData' while loading ../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Content/SideScrollerBP/Maps/AnotherMap.umap.
+[2017.10.29-14.45.51:065][779]LoadErrors: Error: /Game/SideScrollerBP/Maps/AnotherMap : Can't find file for asset. /Game/SideScrollerBP/Maps/AnotherMap_BuiltData
+[2017.10.29-14.45.51:067][779]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Maps/AnotherMap_BuiltData'
+[2017.10.29-14.45.51:067][779]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Maps/AnotherMap_BuiltData' while loading ../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Content/SideScrollerBP/Maps/AnotherMap.umap.
+[2017.10.29-14.45.51:069][779]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Maps/AnotherMap_BuiltData'
+[2017.10.29-14.45.51:069][779]LoadErrors: Failed to load /Game/SideScrollerBP/Maps/AnotherMap_BuiltData.AnotherMap_BuiltData Referenced by PersistentLevel
+[2017.10.29-14.45.51:069][779]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Maps/AnotherMap_BuiltData' while loading NULL.
+[2017.10.29-14.45.51:070][779]LogAIModule: Creating AISystem for world AnotherMap
+[2017.10.29-14.45.55:402][913]Cmd: MAP LOAD FILE="../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Content/SideScrollerBP/Maps/AnotherMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.29-14.45.55:405][913]LightingResults: New page: Lighting Build
+[2017.10.29-14.45.55:406][913]LoadErrors: New page: Loading map: AnotherMap.umap
+[2017.10.29-14.45.55:431][913]MapCheck: New page: Map Check
+[2017.10.29-14.45.55:431][913]LightingResults: New page: Lighting Build
+[2017.10.29-14.45.55:456][913]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/SideScrollerBP/Maps/Main) is flushing async loading
+[2017.10.29-14.45.55:457][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:457][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:458][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:458][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:458][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:458][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:458][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:458][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:458][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:458][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:462][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:462][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:463][913]LogLinker: Warning: Can't find file '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight'
+[2017.10.29-14.45.55:463][913]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight' while loading NULL.
+[2017.10.29-14.45.55:463][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:463][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:463][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:463][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:463][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:463][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:464][913]LogLinker: Warning: Can't find file '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight'
+[2017.10.29-14.45.55:464][913]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight' while loading NULL.
+[2017.10.29-14.45.55:464][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:464][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:464][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:464][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:464][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:464][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:465][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:465][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:465][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:465][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:465][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:466][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:466][913]LogLinker: Warning: Can't find file '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight'
+[2017.10.29-14.45.55:466][913]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight' while loading NULL.
+[2017.10.29-14.45.55:466][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:466][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:466][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:466][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:466][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:467][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:467][913]LogLinker: Warning: Can't find file '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight'
+[2017.10.29-14.45.55:467][913]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight' while loading NULL.
+[2017.10.29-14.45.55:468][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:468][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:468][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:468][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:468][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:468][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:468][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:468][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:468][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:468][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:469][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:469][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:469][913]LogLinker: Warning: Can't find file '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight'
+[2017.10.29-14.45.55:469][913]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight' while loading NULL.
+[2017.10.29-14.45.55:469][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:469][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:469][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:469][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:469][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:469][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:469][913]LogLinker: Warning: Can't find file '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight'
+[2017.10.29-14.45.55:469][913]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight' while loading NULL.
+[2017.10.29-14.45.55:472][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:472][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:472][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:472][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:474][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:474][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:474][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:474][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:474][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:474][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:474][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:474][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:474][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:475][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:475][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:475][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:475][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:475][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:475][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:475][913]LoadErrors: Failed to load /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter_C Referenced by PersistentLevel
+[2017.10.29-14.45.55:475][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:476][913]LogLinker: Warning: Can't find file '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight'
+[2017.10.29-14.45.55:476][913]LoadErrors: Failed to load /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight Referenced by PostProcessVolume_1
+[2017.10.29-14.45.55:476][913]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight' while loading NULL.
+[2017.10.29-14.45.55:476][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:476][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:476][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:476][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:476][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:476][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:477][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:477][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:477][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:477][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:477][913]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter'
+[2017.10.29-14.45.55:477][913]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/Blueprints/SideScrollerCharacter' while loading NULL.
+[2017.10.29-14.45.55:480][913]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Arrow': SideScrollerCharacter_C /Game/SideScrollerBP/Maps/Main.Main:PersistentLevel.SideScrollerCharacter_350
+[2017.10.29-14.45.55:480][913]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SideViewCamera': SideScrollerCharacter_C /Game/SideScrollerBP/Maps/Main.Main:PersistentLevel.SideScrollerCharacter_350
+[2017.10.29-14.45.55:480][913]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CollisionCylinder': SideScrollerCharacter_C /Game/SideScrollerBP/Maps/Main.Main:PersistentLevel.SideScrollerCharacter_350
+[2017.10.29-14.45.55:480][913]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharMoveComp': SideScrollerCharacter_C /Game/SideScrollerBP/Maps/Main.Main:PersistentLevel.SideScrollerCharacter_350
+[2017.10.29-14.45.55:480][913]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'CharacterMesh0': SideScrollerCharacter_C /Game/SideScrollerBP/Maps/Main.Main:PersistentLevel.SideScrollerCharacter_350
+[2017.10.29-14.45.55:481][913]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'SpringArm1': SideScrollerCharacter_C /Game/SideScrollerBP/Maps/Main.Main:PersistentLevel.SideScrollerCharacter_350
+[2017.10.29-14.45.55:482][913]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.29-14.45.55:538][913]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.29-14.45.55:538][913]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/SideScrollerBP/Maps/FamilyRoom' which isn't loaded.
+[2017.10.29-14.45.55:538][913]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/SideScrollerBP/Maps/FrontYard' which isn't loaded.
+[2017.10.29-14.45.55:538][913]LogEditorServer: Warning: WorldSettings_1 contains streaming level '/Game/SideScrollerBP/Maps/Kitchen' which isn't loaded.
+[2017.10.29-14.45.55:598][913]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.691ms to complete.
+[2017.10.29-14.45.55:600][913]LogSlate: Took 0.000186 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.29-14.45.55:607][913]LogFileHelpers: Loading map 'AnotherMap' took 0.206
+[2017.10.29-14.46.28:949][420]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 113 classes and 0 folders.
+[2017.10.29-14.46.29:603][421]LogRenderer: Reallocating scene render targets to support 1616x724 Format 10 NumSamples 1 (Frame:1).
+[2017.10.29-14.46.41:259][632]LogSlate: Took 0.007467 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.29-14.57.25:963][990]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Stairs" FILE="../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Content/SideScrollerBP/Stairs.uasset" SILENT=true
+[2017.10.29-14.57.26:003][990]LogSavePackage: Save=38.51ms
+[2017.10.29-14.57.26:003][990]LogSavePackage: Moving '../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Saved/Stairs5491193C47B6ADEEB880988352483D21.tmp' to '../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Content/SideScrollerBP/Stairs.uasset'
+[2017.10.29-14.57.26:006][990]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Content/SideScrollerBP/Stairs.uasset
+[2017.10.29-14.57.28:870][219]BlueprintLog: New page: Compile Stairs
+[2017.10.29-14.57.32:394][481]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Stairs" FILE="../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Content/SideScrollerBP/Stairs.uasset" SILENT=true
+[2017.10.29-14.57.32:434][481]LogSavePackage: Save=33.55ms
+[2017.10.29-14.57.32:434][481]LogSavePackage: Moving '../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Saved/Stairs49BE4C2B4416598AF9406F8D55E70105.tmp' to '../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Content/SideScrollerBP/Stairs.uasset'
+[2017.10.29-14.57.32:436][481]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Content/SideScrollerBP/Stairs.uasset
+[2017.10.29-14.57.34:110][650]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.29-14.57.34:715][712]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2017.10.29-14.57.38:879][ 95]LogEditorViewport: Clicking on Actor (LMB): Stairs_C (Stairs)
+[2017.10.29-14.57.41:306][345]LogEditorViewport: Clicking on Actor (LMB): Stairs_C (Stairs)
+[2017.10.29-14.57.42:241][454]Cmd: DELETE
+[2017.10.29-14.57.42:241][454]Cmd: ACTOR DELETE
+[2017.10.29-14.57.42:241][454]LogEditorActor: Deleted Actor: Stairs_C
+[2017.10.29-14.57.42:262][454]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2017.10.29-14.57.43:675][611]LogSavePackage: Save=11.02ms
+[2017.10.29-14.57.43:675][611]LogSavePackage: Moving '../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Saved/AnotherMapA1636F0F41CAB40AA5CCC2B40E61125B.tmp' to '../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Content/SideScrollerBP/Maps/AnotherMap.umap'
+[2017.10.29-14.57.43:677][611]LogSavePackage: Display: Finished SavePackage ../../../../../Users/Christian/Documents/Unreal Projects/Broombro/Content/SideScrollerBP/Maps/AnotherMap.umap
